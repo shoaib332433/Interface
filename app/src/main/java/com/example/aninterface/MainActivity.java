@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,obj.throwhook() +"" ,Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,obj.throwJab() +"" ,Toast.LENGTH_SHORT).show();
             }
         });
 
